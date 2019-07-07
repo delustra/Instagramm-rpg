@@ -72,7 +72,5 @@ public class MobQueue : MonoBehaviour
             mobDisplayText.text = CurrentMob.title;
             DebugQSize.text = MobsToKillQueue.Count.ToString();
         }
-
-
 }
 }
