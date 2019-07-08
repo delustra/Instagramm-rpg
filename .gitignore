@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/app/obj/Debug
+/app/Temp
+/app/.vs
+/.vs/Instagramm-rpg/v16
